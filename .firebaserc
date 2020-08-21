@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "inmobiliaria-400fb": {
+      "hosting": {
+        "RealEstate": [
+          "inmobiliaria-400fb"
+        ]
+      }
+    }
+  }
+}
